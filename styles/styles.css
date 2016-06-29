@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
+
+.landing-container {
+  height: 503px;
+  margin-bottom: 1vh;
+  background-image: url("https://s3.amazonaws.com/www-assets.invisionapp.com/marketplace/assets/mp-hero-05.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.market-logo {
+  width: 75%;
+  margin-top: 15vh;
+  margin-bottom: 10vh;
+}
+
+.circle-logo {
+  margin-bottom: 5vh;
+}
+
+.landing-link {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: .25em;
+}
+
+.landing-link a {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: .25em;
+}
+
+.landing-link a:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: .25em;
+}
+
+.shirt-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.t-shirt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.t {
+  width: 95%;
+  margin-bottom: 1vh;
+}
+
+.notify-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.notify-container h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
+  font-size: 1.125em;
+  font-weight: 400;
+  text-align: center;
+}
+
+.notify-container h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #889199;
+  font-size: .75em;
+  font-weight: 300;
+  text-align: center;
+}
+
+.notify-input input{
+  font-family: 'Open Sans', sans-serif;
+  color: #889199;
+  font-size: .75em;
+  font-weight: 300;
+  text-align: center;
+  height: 5vh;
+  background-color: pink;
+}
+
+.notify-btn button{
+  font-family: 'Open Sans', sans-serif;
+  color: #889199;
+  font-size: .75em;
+  font-weight: 300;
+  text-align: center;
+  background-color: #000;
+}
